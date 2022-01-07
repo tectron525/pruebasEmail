@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "book";
+    src: url("gotham-book.otf");
+}
+
+@font-face {
+    font-family: "blackg";
+    src: url("gotham-black.otf");
+}
+
+.fontFam {
+    font-family: "book"!important;
+    font-family: "blackg"!important;
+}
